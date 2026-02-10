@@ -1,0 +1,13 @@
+StudentID,Gender,StudyHours,Attendance,MathScore,ScienceScore,EnglishScore,FinalResult
+S001,Male,2,75,55,60,58,Fail
+S002,Female,4,85,68,72,70,Pass
+S003,Male,6,90,78,80,75,Pass
+S004,Female,1,65,45,50,48,Fail
+S005,Male,5,88,72,74,70,Pass
+S006,Female,3,80,60,65,62,Pass
+S007,Male,2,70,50,55,52,Fail
+S008,Female,6,92,82,85,80,Pass
+S009,Male,4,83,66,68,65,Pass
+S010,Female,1,60,42,45,40,Fail
+S011,Male,5,87,75,78,73,Pass
+S012,Female,3,78,58,62,60,Pass
